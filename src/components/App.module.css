@@ -1,0 +1,20 @@
+.app {
+    padding: 30px 0 30px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 0 15px;
+}
+
+h2 {
+    padding: 20px 0 10px;
+}
+
+.contactsEmptyText {
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 800;
+}

@@ -1,0 +1,26 @@
+.listItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.listItemBtn {
+    width: 120px;
+    padding: 4px;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0.06em;
+    background-color: rgb(194, 180, 163);
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.75);
+    transition: transform 500ms ease-in-out;
+}
+
+.listItemBtn:hover {
+    background-color: rgb(190, 162, 128);
+    transform: scale(1.05);
+    cursor: pointer;
+}
