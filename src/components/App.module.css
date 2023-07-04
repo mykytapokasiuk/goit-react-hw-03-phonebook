@@ -9,12 +9,21 @@
     padding: 0 15px;
 }
 
+h1 {
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.6);
+    letter-spacing: 0.04em;
+}
+
 h2 {
     padding: 20px 0 10px;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.6);
+    letter-spacing: 0.04em;
 }
 
 .contactsEmptyText {
     margin-top: 20px;
     font-size: 30px;
     font-weight: 800;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.6);
+    letter-spacing: 0.04em;
 }
